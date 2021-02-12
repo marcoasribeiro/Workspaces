@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610897088 source:c:\users\marco\onedrive\documentos\workspaces\flatec\aula 34 ex 26 obter porcentagem do salario liqui e bruto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+

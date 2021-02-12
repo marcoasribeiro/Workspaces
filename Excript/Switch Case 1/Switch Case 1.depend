@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1598294269 source:c:\users\marco\documents\workspaces\excript\switch case 1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<iostream>
+	<string.h>
+	<math.h>
+

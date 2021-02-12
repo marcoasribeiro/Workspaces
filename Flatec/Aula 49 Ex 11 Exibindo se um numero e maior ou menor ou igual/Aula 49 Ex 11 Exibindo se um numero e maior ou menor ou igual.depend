@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1611099876 source:c:\users\marco\onedrive\documentos\workspaces\flatec\aula 49 ex 11 exibindo se um numero e maior ou menor ou igual\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+

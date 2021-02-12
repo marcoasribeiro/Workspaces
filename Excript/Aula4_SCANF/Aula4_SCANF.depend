@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1597779355 source:c:\users\marco\documents\workspaces\excript\aula4_scanf\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<iostream>
+	<string.h>
+	<math.h>
+	<locale.h>
+

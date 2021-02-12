@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606842279 source:c:\users\marco\documents\workspaces\excript\variaveis globais\main.c
+	<stdio.h>
+	<stdlib.h>
+

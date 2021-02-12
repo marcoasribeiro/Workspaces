@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1609080786 source:c:\users\marco\documents\workspaces\excript\printf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+	<locale.h>
+

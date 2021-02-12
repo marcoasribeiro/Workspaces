@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610161185 source:c:\users\marco\documents\workspaces\flatec\aula 9 ex01 introd 2 formas de exibição com a soma  de 2 vari\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<locale.h>
+

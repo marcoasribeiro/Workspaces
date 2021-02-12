@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1611169008 source:c:\users\marco\onedrive\documentos\workspaces\flatec\aula 55 ex 17 media aluno aprovado reprovado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<math.h>
+

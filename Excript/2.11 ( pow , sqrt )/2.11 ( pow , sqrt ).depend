@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606838579 source:c:\users\marco\documents\workspaces\excript\2.11 ( pow , sqrt )\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606841625 source:c:\users\marco\documents\workspaces\excript\2.8 imprimindo valores\main.c
+	<stdio.h>
+	<stdlib.h>
+

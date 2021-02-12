@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Livro  Elementos">
+		<Project filename="../Excript/Programa 1/Programa 1.cbp" />
+		<Project filename="../Excript/2.1 Pratica/2.1 Pratica.cbp" />
+		<Project filename="../Excript/2.4/2.4.cbp" />
+		<Project filename="../Excript/2.5 declarando variaveis/2.5 declarando variaveis.cbp" />
+		<Project filename="../Excript/2.6 Atribuindo Valores/2.6 Atribuindo Valores.cbp" />
+		<Project filename="../Excript/2.7 Scanf Lê Valores/2.7 Scanf Lê Valores.cbp" />
+		<Project filename="../Excript/2.8 Imprimindo valores/2.8 Imprimindo valores.cbp" />
+		<Project filename="../Excript/2.9 Testando Valores  ( IF )/2.9 Testando Valores  ( IF ).cbp" />
+		<Project filename="../Excript/2.10  ( IF )  Equação Linear/2.10  ( IF )  Equação Linear.cbp" />
+		<Project filename="../Excript/2.11 ( pow , sqrt )/2.11 ( pow , sqrt ).cbp" />
+		<Project filename="../Excript/2.12 ( imp_ini )/2.12 ( imp_ini ).cbp" />
+		<Project filename="../Excript/Variaveis Globais/Variaveis Globais.cbp" />
+		<Project filename="../Excript/2.13 ( Função Lerdados )/2.13 ( Função Lerdados ).cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

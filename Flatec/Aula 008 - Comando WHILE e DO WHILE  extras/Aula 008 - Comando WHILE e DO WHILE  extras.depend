@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610060787 source:c:\users\marco\documents\workspaces\flatec\aula 008 - comando while e do while  extras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<locale.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1611277462 source:c:\users\marco\onedrive\documentos\workspaces\flatec\aula 74 ex 06 informando um valor l e somando  tudo de zero ate ele\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+

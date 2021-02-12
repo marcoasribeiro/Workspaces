@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1598030617 source:c:\users\marco\documents\workspaces\excript\if5\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<conio.h>
+	<string>
+

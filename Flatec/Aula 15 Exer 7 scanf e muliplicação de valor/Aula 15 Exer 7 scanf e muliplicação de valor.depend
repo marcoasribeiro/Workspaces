@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1610475412 source:c:\users\marco\documents\workspaces\flatec\aula 15 exer 7 scanf e muliplicação de valor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<string.h>
+	<locale.h>
+

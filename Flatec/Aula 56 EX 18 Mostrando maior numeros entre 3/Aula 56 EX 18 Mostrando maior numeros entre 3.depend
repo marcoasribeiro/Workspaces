@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1611170450 source:c:\users\marco\onedrive\documentos\workspaces\flatec\aula 56 ex 18 mostrando maior numeros entre 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+

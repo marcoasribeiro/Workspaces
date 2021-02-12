@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1598303712 source:c:\users\marco\documents\workspaces\excript\while _do while\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<iostream>
+	<string.h>
+	<math.h>
+

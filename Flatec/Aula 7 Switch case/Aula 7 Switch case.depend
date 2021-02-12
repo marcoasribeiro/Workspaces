@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1610042106 source:c:\users\marco\documents\workspaces\flatec\aula 7 switch case\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+

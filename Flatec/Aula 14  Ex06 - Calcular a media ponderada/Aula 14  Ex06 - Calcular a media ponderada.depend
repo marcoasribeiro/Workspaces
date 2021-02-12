@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1610473507 source:c:\users\marco\documents\workspaces\flatec\aula 14  ex06 - calcular a media ponderada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+

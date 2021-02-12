@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610893610 source:c:\users\marco\onedrive\documentos\workspaces\flatec\aula 33 ex 25 acrescimo e desconto de um peso lido\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+

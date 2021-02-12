@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1611098993 source:c:\users\marco\onedrive\documentos\workspaces\flatec\aula 48 ex 10 calulando peso ideal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+

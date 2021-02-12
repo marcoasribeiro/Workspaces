@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611942363 source:c:\users\marco\onedrive\documentos\workspaces\excript\tomada de decisao if\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

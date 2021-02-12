@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606840406 source:c:\users\marco\documents\workspaces\excript\2.12 ( imp_ini )\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

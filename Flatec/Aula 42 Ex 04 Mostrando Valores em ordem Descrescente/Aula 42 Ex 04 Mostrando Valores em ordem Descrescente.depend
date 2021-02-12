@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610928527 source:c:\users\marco\onedrive\documentos\workspaces\flatec\aula 42 ex 04 mostrando valores em ordem descrescente\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+

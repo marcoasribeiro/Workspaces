@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610990444 source:c:\users\marco\onedrive\documentos\workspaces\flatec\aula 43 ex 05 testando se a divisao e exata\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+

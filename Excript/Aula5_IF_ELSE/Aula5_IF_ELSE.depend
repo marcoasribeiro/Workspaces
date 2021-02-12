@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1597854433 source:c:\users\marco\documents\workspaces\excript\aula5_if_else\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<conio.h>
+	<string>
+	<locale.h>
+

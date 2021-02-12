@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1611278466 source:c:\users\marco\onedrive\documentos\workspaces\flatec\aula 75 ex 07 lendol  e mostrando o quadrado  de todos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1610309493 source:c:\users\marco\documents\workspaces\flatec\aula 13 exerc 5 calculando area com pi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+

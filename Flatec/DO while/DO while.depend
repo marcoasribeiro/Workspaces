@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1612557427 source:c:\users\marco\onedrive\documentos\workspaces\flatec\do while\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

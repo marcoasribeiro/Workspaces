@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1597855402 source:c:\users\marco\documents\workspaces\excript\if\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<conio.h>
+	<string>
+	<locale.h>
+
+1597855383 source:c:\users\marco\documents\workspaces\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+

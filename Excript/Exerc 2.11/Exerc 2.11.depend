@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595524483 source:c:\users\marco\documents\workspaces\excript\exerc 2.11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

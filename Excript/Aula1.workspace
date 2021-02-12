@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="../Aula1 Hello world/Aula1 Hello world.cbp" />
+		<Project filename="../programa 1/programa 1.cbp" />
+		<Project filename="../Indentação e Comentários/Indentação e Comentários.cbp" />
+		<Project filename="Variaveis1/Variaveis1.cbp" />
+		<Project filename="Variavel 2/Variavel 2.cbp" />
+		<Project filename="Aula5_IF_ELSE/Aula5_IF_ELSE.cbp" />
+		<Project filename="IF/IF.cbp" />
+		<Project filename="IF2/IF2.cbp" />
+		<Project filename="IF3/IF3.cbp" />
+		<Project filename="IF4/IF4.cbp" />
+		<Project filename="IF5/IF5.cbp" />
+		<Project filename="FOR 1/FOR 1.cbp" />
+		<Project filename="For2/For2.cbp" />
+		<Project filename="For3/For3.cbp" />
+		<Project filename="Switch Case 1/Switch Case 1.cbp" />
+		<Project filename="While _Do While/While _Do While.cbp" />
+		<Project filename="../Flatec/Aula 16/Aula 16.cbp" />
+		<Project filename="../Flatec/tomada/tomada.cbp" />
+		<Project filename="../Flatec/Media das notas IF/Media das notas IF.cbp" />
+		<Project filename="../Flatec/operacionais relacionais/operacionais relacionais.cbp" />
+		<Project filename="../Flatec/operadores/operadores.cbp" />
+		<Project filename="../Flatec/modficadores de tipo/modficadores de tipo.cbp" />
+		<Project filename="../Flatec/While 1/While 1.cbp" />
+		<Project filename="../Flatec/While 2/While 2.cbp" />
+		<Project filename="../Flatec/operadores de atribicao/operadores de atribicao.cbp" />
+		<Project filename="../Flatec/Depuracao 1/Depuracao 1.cbp" />
+		<Project filename="../Flatec/depuracao 2/depuracao 2.cbp" />
+		<Project filename="../Flatec/DO while/DO while.cbp" />
+		<Project filename="../Flatec/Calculadora 2.0/Calculadora 2.0.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

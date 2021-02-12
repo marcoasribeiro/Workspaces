@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1612030498 source:c:\users\marco\onedrive\documentos\workspaces\flatec\tomada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+	<locale.h>
+	<string.h>
+

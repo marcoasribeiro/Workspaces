@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606843835 source:c:\users\marco\documents\workspaces\excript\2.13 ( função lerdados )\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

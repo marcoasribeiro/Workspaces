@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610991604 source:c:\users\marco\onedrive\documentos\workspaces\flatec\aula 44\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+

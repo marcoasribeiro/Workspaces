@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1609033099 source:c:\users\marco\documents\workspaces\excript\flatec\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<iostream>
+	<string.h>
+	<math.h>
+	<locale.h>
+
